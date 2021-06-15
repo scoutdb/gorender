@@ -14,7 +14,7 @@ type output struct {
 	photo string
 }
 
-// https://raytracing.github.io/books/RayTracingInOneWeekend.html#outputanimage
+//Render outputs a .ppm image
 func Render() {
 
 	output := &output{}
