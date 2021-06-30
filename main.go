@@ -6,8 +6,8 @@ import (
 )
 
 const (
-	imageHeigth int = 256
-	imageWidth  int = 256
+	imageHeigth int = 2
+	imageWidth  int = 2
 )
 
 type output struct {
